@@ -1,0 +1,4 @@
+1.data types
+2.loops
+3.conditional
+4.oops
